@@ -26,3 +26,9 @@ header {
   margin: .3em;
   text-align: center;
 }
+
+li {
+  display: inline-block;
+  list-style-type: none;
+  margin: .6em 0;
+}
