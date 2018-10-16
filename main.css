@@ -32,3 +32,13 @@ li {
   list-style-type: none;
   margin: .6em 0;
 }
+
+a {
+  background-color: #713837;
+  border-radius: 4px;
+  color: #fff;
+  font-family: Arial, sans-serif;
+  padding: .6em;
+  text-align: center;
+  text-decoration: none;
+}
