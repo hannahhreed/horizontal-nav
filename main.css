@@ -15,3 +15,9 @@ body {
   border-bottom: solid;
   border-color: #595652;
 }
+
+h1 {
+  color: #fff;
+  text-align: center;
+  font-family: Bevan, sans-serif;
+}
